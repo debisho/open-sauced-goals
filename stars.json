@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "aws/aws-cli",
+    "stargazers_count": 12751,
+    "open_issues_count": 590,
+    "forks_count": 3355
+  },
+  {
     "full_name": "josepraveen/free_monthly_learning_resources",
-    "stargazers_count": 122,
+    "stargazers_count": 124,
     "open_issues_count": 0,
     "forks_count": 35
   },
@@ -13,20 +19,20 @@
   },
   {
     "full_name": "cloudnloud/interview-questions",
-    "stargazers_count": 248,
+    "stargazers_count": 249,
     "open_issues_count": 2,
     "forks_count": 145
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 101437,
+    "stargazers_count": 101548,
     "open_issues_count": 0,
-    "forks_count": 10594
+    "forks_count": 10604
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 5810,
+    "stargazers_count": 5811,
     "open_issues_count": 31,
-    "forks_count": 263
+    "forks_count": 265
   }
 ]
