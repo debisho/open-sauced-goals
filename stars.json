@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "BolajiAyodeji/altschool-profile-template",
+    "stargazers_count": 25,
+    "open_issues_count": 0,
+    "forks_count": 290
+  },
+  {
     "full_name": "aws/aws-cli",
-    "stargazers_count": 12784,
-    "open_issues_count": 590,
-    "forks_count": 3372
+    "stargazers_count": 12802,
+    "open_issues_count": 589,
+    "forks_count": 3375
   },
   {
     "full_name": "josepraveen/free_monthly_learning_resources",
-    "stargazers_count": 131,
+    "stargazers_count": 139,
     "open_issues_count": 0,
     "forks_count": 36
   },
@@ -19,20 +25,20 @@
   },
   {
     "full_name": "cloudnloud/interview-questions",
-    "stargazers_count": 249,
+    "stargazers_count": 251,
     "open_issues_count": 2,
-    "forks_count": 146
+    "forks_count": 147
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 101804,
+    "stargazers_count": 101909,
     "open_issues_count": 0,
-    "forks_count": 10626
+    "forks_count": 10641
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 5829,
-    "open_issues_count": 33,
-    "forks_count": 268
+    "stargazers_count": 5834,
+    "open_issues_count": 38,
+    "forks_count": 272
   }
 ]
