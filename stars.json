@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "philemonnwanne/cloud-eng-assignment-tracker",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "BolajiAyodeji/altschool-profile-template",
     "stargazers_count": 28,
     "open_issues_count": 0,
-    "forks_count": 317
+    "forks_count": 318
   },
   {
     "full_name": "aws/aws-cli",
-    "stargazers_count": 12935,
-    "open_issues_count": 595,
-    "forks_count": 3426
+    "stargazers_count": 12954,
+    "open_issues_count": 594,
+    "forks_count": 3428
   },
   {
     "full_name": "josepraveen/free_monthly_learning_resources",
-    "stargazers_count": 174,
+    "stargazers_count": 177,
     "open_issues_count": 0,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "debisho/deborah-shodamola-assignment-02",
@@ -31,14 +37,14 @@
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 103375,
+    "stargazers_count": 103457,
     "open_issues_count": 0,
-    "forks_count": 10782
+    "forks_count": 10791
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 5938,
-    "open_issues_count": 33,
-    "forks_count": 282
+    "stargazers_count": 5947,
+    "open_issues_count": 32,
+    "forks_count": 280
   }
 ]
