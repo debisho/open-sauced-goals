@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "mastra-ai/mastra",
+    "stargazers_count": 8064,
+    "open_issues_count": 30,
+    "forks_count": 319
+  },
+  {
     "full_name": "LukeHackett/aws-certificated-associate-solutions-architect-study-notes",
     "stargazers_count": 12,
     "open_issues_count": 0,
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "aws/aws-cli",
-    "stargazers_count": 15823,
-    "open_issues_count": 579,
-    "forks_count": 4207
+    "stargazers_count": 15836,
+    "open_issues_count": 582,
+    "forks_count": 4211
   },
   {
     "full_name": "josepraveen/free_monthly_learning_resources",
-    "stargazers_count": 521,
+    "stargazers_count": 522,
     "open_issues_count": 0,
     "forks_count": 83
   },
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 122754,
+    "stargazers_count": 122797,
     "open_issues_count": 0,
-    "forks_count": 12084
+    "forks_count": 12091
   },
   {
     "full_name": "datreeio/datree",
